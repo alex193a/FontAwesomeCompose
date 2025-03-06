@@ -84,7 +84,7 @@ fun Demo() {
 @Composable
 fun SolidIcons() {
     Text(
-        text = "Solid Icons (1000+)",
+        text = "Solid Icons (1400+)",
         style = MaterialTheme.typography.h6.copy(fontSize = 14.sp),
         modifier = Modifier.padding(start = 16.dp, top = 16.dp)
     )
@@ -106,7 +106,7 @@ fun SolidIcons() {
 @Composable
 fun RegularIcons() {
     Text(
-        text = "Regular Icons (150+)",
+        text = "Regular Icons (160+)",
         style = MaterialTheme.typography.h6.copy(fontSize = 14.sp),
         modifier = Modifier.padding(start = 16.dp, top = 16.dp)
     )
